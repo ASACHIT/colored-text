@@ -4,8 +4,6 @@
 #we will be using colorama
 pip install colorama  #installing module
 ```
-
-
 ## Text Color / Foreground Color
 ### code
 ![App Screenshot](fore/fore.png)
